@@ -17,8 +17,9 @@ A Domain Controller needs a static IP so domain clients can always find it. It a
    - Verified via PowerShell: `Get-WindowsFeature -Name AD-Domain-Services` (showed as Installed).
 
 ## Screenshots
-- `01-01-ad-ds-installed.png` - Server Manager showing AD DS and DNS
-- `01-02-ad-ds-wizard.png` - Add Roles wizard
-- `01-03-pre-promotion-state.png` - Red "1" warning before promotion
-- `01-04-pdc-renamed.png` - System Properties showing "PDC"
-- `01-05-static-ip.png` - IPv4 configuration
+
+![AD DS Installed](screenshots/01-01-ad-ds-installed.png)
+![AD DS Wizard](screenshots/01-02-ad-ds-wizard.png)
+![Pre-Promotion State](screenshots/01-03-pre-promotion-state.png)
+![PDC Renamed](screenshots/01-04-pdc-renamed.png)
+![Static IP](screenshots/01-05-static-ip.png)
