@@ -17,9 +17,10 @@ Everything starts with a clean operating system. Choosing the "Desktop Experienc
 8. Completed installation and logged in.
 
 ## Screenshots
-- `00-01-language.png` - Language settings
-- `00-02-setup-option.png` - Setup option (Install)
-- `00-03-select-image.png` - Selecting the Desktop Experience image
-- `00-04-partition.png` - Disk partition (60.7 GB)
-- `00-05-ready-to-install.png` - Ready to install confirmation
-- `00-06-admin-password.png` - Administrator password setup
+
+![Language Settings](screenshots/00-01-language.png)
+![Setup Option](screenshots/00-02-setup-option.png)
+![Select Image](screenshots/00-03-select-image.png)
+![Partition](screenshots/00-04-partition.png)
+![Ready to Install](screenshots/00-05-ready-to-install.png)
+![Admin Password](screenshots/00-06-admin-password.png)
