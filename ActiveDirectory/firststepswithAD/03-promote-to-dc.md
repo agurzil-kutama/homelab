@@ -36,8 +36,9 @@ This step was a huge learning experience. Here is exactly what happened:
 - DNS is installed and integrated.
 
 ## Screenshots
-- `02-01-gui-flag-empty.png` - Empty notification flag
-- `02-02-event-viewer-error.png` - Event ID 1066 and 4013
-- `02-03-powershell-error.png` - The "NewDomain" bug error
-- `02-04-verify-get-addomain.png` - Verification via Get-ADDomain
-- `02-05-verify-service-running.png` - Verification via Get-Service NTDS
+
+![GUI Flag Empty](screenshots/02-01-gui-flag-empty.png)
+![Event Viewer Error](screenshots/02-02-event-viewer-error.png)
+![PowerShell Command](screenshots/02-03-powershell-command.png)
+![PowerShell Error](screenshots/02-04-powershell-error.png)
+![Verify Get-ADDomain](screenshots/02-05-verify-get-addomain.png)
