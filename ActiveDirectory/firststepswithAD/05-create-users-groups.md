@@ -22,7 +22,7 @@ Users are the employees. Groups are how we assign permissions efficiently (e.g.,
 ![User Creation Menu](screenshots/05-01-user-menu.jpg)
 ![User Details](screenshots/05-02-user-details.jpg)
 ![User Password](screenshots/05-03-user-password.jpg)
-![Users Created](screenshots/05-04-users-created.jpg)
+![Users Created](screenshots/05-04-Users-Created.jpg)
 ![Add User to Group](screenshots/05-05-add-user-to-group.jpg)
 ![Group Members](screenshots/05-06-group-members.jpg)
 ![User Member Of](screenshots/05-07-user-memberof.jpg)
