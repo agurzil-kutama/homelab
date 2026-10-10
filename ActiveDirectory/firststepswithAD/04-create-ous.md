@@ -19,9 +19,9 @@ Instead of dumping all users and computers into the default "Users" container, w
 
 ## Screenshots
 
-![Open ADUC](screenshots/04-01-open-aduc.png)
-![Create Parent OU](screenshots/04-02-create-parent-ou.png)
-![Name Parent OU](screenshots/04-03-name-parent-ou.png)
-![Create Child OUs](screenshots/04-04-create-child-ous.png)
-![Name HR OU](screenshots/04-05-name-hr-ou.png)
-![OUs Completed](screenshots/04-06-ous-completed.png)
+![Open ADUC](screenshots/04-01-open-aduc.jpg)
+![Create Parent OU](screenshots/04-02-create-parent-ou.jpg)
+![Name Parent OU](screenshots/04-03-name-parent-ou.jpg)
+![Create Child OUs](screenshots/04-04-create-child-ous.jpg)
+![Name HR OU](screenshots/04-05-name-hr-ou.jpg)
+![OUs Completed](screenshots/04-06-ous-completed.jpg)
